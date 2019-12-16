@@ -4,7 +4,7 @@
 
 '''
 
-public int a{}
+public int a()
 {
 }
 
