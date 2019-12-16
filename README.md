@@ -4,6 +4,6 @@
 
 '''
 
-public int a{}{
-}
+public int a{}
+기숙사 가고 싶다..
 '''
